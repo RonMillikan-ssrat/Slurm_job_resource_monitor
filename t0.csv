@@ -1,0 +1,1 @@
+timestamp,job_id,node,cpu_pct,ram_used_mb,ram_total_mb,gpu_id,pid,gpu_mem_mib,gpu_util_pct,gpu_power_w,gpu_temp_c
